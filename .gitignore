@@ -1,0 +1,42 @@
+# Salesforce DX Project .gitignore
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# VS Code settings
+.vscode/
+.history/
+*.code-workspace
+
+# Salesforce CLI config & logs
+.sfdx/
+.localdevserver/
+.log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package lock files (optional, if you want clean installs)
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Environment variables / local configs
+.env
+.env.local
+.env.test
+.env.production
+
+# Generated files (do not push)
+scratch-orgs/
+test-results/
