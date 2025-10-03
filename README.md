@@ -29,7 +29,7 @@ This project is built as part of the **PwC Salesforce Launchpad Training** to pr
 - 🎨 **Lightning Web Components (LWC)** for interactive UI  
 - 📊 **Salesforce Reports & Dashboards** for visualization  
 - 🗂️ **GitHub** for version control  
-- 💻 **VS Code + Salesforce Extensions** for local development  
+- 💻 **VS Code + Salesforce Extensions + Saleforce CLI** for local development  
 
 ---
 
