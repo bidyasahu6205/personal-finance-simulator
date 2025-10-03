@@ -2,15 +2,13 @@
 ./personal-finance-simulator/.husky/
 ./personal-finance-simulator/config/
 ./personal-finance-simulator/scripts/
-./personal-finance-simulator/.forceignore
-./personal-finance-simulator/.gitignore
 ./personal-finance-simulator/.prettierignore
 ./personal-finance-simulator/.prettierrc
 ./personal-finance-simulator/eslint.config.js
 ./personal-finance-simulator/jest.config.js
 ./personal-finance-simulator/package.json
 ./personal-finance-simulator/README.md
-./personal-finance-simulator/sfdx-project.json
+
 
 
 # Node modules
@@ -81,6 +79,7 @@ yarn-error.log*
 
 # Dependency directories
 node_modules/
+
 
 # ApexPMD cache
 .pmdCache
